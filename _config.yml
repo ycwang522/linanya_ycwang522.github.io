@@ -17,7 +17,7 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
--->
+//-->
 
 
 # 作者信息
