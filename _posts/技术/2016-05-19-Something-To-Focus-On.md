@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "做题时碰到的一些技巧和方法"
+title: 做题时碰到的一些技巧和方法
+category: 技术
+tags: C++ 
 date: 2016-05-19
-excerpt: "学习和刷题中遇到的零碎知识点总结."
-project: true
-tag:
-- C++
-- Data Structure
-- C
 comments: true
 ---
 
