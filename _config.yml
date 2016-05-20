@@ -13,12 +13,13 @@ author:
   weibo: http://weibo.com/u/2996503952
   github: http://github.com/ycwang522
   music: http://music.163.com/#/user/home?id=60616754
+  csdn：http://blog.csdn.net/wyc12306
 
 # 站点信息
-title: 小站
+title: 小栈
 description: My Private Website
 url: http://ycwang522.github.io/
-#rss_url: /pages/atom.xml
+
 
 # gavatar头像及Favicon
 gavatar: /public/img/deer3.png
