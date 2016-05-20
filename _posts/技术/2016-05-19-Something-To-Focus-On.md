@@ -3,8 +3,8 @@ layout: post
 title: 做题时碰到的一些技巧和方法
 category: 技术
 tags: C++ 
-date: 2016-05-19
-comments: true
+keywords: 
+description: 
 ---
 
 
