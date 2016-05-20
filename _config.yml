@@ -2,6 +2,7 @@ permalink: /:year/:month/:day/:title.html
 paginate: 10
 markdown: redcarpet
 
+<!--
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -16,7 +17,7 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
-
+-->
 
 
 # 作者信息
